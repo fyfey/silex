@@ -1,0 +1,19 @@
+{
+    "name": "fyfey/silex",
+    "require": {
+        "silex/silex": "~1.2",
+        "symfony/yaml": "dev-master",
+        "symfony/finder": "dev-master"
+    },
+    "require-dev": {
+        "monolog/monolog": "dev-master",
+        "silex/web-profiler": "~1.0"
+    },
+    "authors": [
+        {
+            "name": "Stuart Fyfe",
+            "email": "stuartfyfe86@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
